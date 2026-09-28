@@ -1,0 +1,23 @@
+uploads = []
+generated = []
+
+[[outputs]]
+id = "wTqlovgBpm5eTmqnZukTr"
+uri = "file://artifacts/dice-battle/assets/sounds/roll.mp3"
+type = "audio"
+title = "sound_effect"
+description = "Generated sound effect: Short satisfying dice roll: one die rattling on a smooth tabletop, rapid clacking and tumbling, crisp game UI sound, dry and clean, no music or voice"
+
+[[outputs]]
+id = "P-WxHSS2_MBTLrMpePfJz"
+uri = "file://artifacts/dice-battle/assets/sounds/winner.mp3"
+type = "audio"
+title = "sound_effect"
+description = "Generated sound effect: Short triumphant gold victory fanfare sparkle, polished mobile game award sting, no voice, no long music"
+
+[[outputs]]
+id = "S_r4V7aoU9ze_6Ud7nGTJ"
+uri = "file://artifacts/dice-battle/assets/sounds/result.mp3"
+type = "audio"
+title = "sound_effect"
+description = "Generated sound effect: Very short bright arcade result ding with a tactile click, polished modern game UI, no music or voice"
