@@ -3,7 +3,7 @@
     "name": "Dice Battle",
     "slug": "dice-battle",
     "version": "1.0.0",
-    "orientation": "portrait",
+    "orientation": "default",
     "icon": "./assets/images/icon.png",
     "scheme": "dice-battle",
     "userInterfaceStyle": "automatic",
@@ -14,10 +14,7 @@
     "web": {
       "favicon": "./assets/images/icon.png"
     },
-    "plugins": [
-      "expo-router",
-      "expo-audio"
-    ],
+    "plugins": ["expo-router", "expo-audio"],
     "experiments": {
       "typedRoutes": true,
       "reactCompiler": true
