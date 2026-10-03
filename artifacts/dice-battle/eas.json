@@ -1,7 +1,16 @@
 {
+  "cli": {
+    "version": ">= 16.0.0"
+  },
   "build": {
     "preview": {
-      "distribution": "internal"
+      "distribution": "internal",
+      "node": "22.13.0",
+      "pnpm": "10.11.0",
+      "android": {
+        "buildType": "apk",
+        "image": "latest"
+      }
     }
   }
 }
